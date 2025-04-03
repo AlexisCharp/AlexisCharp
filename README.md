@@ -17,9 +17,4 @@ Want to connect? Feel free to reach out on [LinkedIn](https://www.linkedin.com/i
 
 ## Recent Activity
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=AlexisCharp&theme=blood-dark&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-
-<!-- [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/alexischarp) -->
