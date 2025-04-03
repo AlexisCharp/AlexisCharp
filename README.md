@@ -1,13 +1,25 @@
-### Hello ! 🖖 🇫🇷
+# Hi there! 👋
 
-Je m'appelle Alexis et je suis développeur front-end. Sur mon Github, tu peux retrouver un ensemble de projets outdated que je n'ai pas eu le temps de finir 😋. Aujourd'hui, j'essaie de développer une expertise autour de la collaboration entre développeurs et designers (design systems, design ops, etc.).
+I'm Alexis, a Front-End Developer passionate about bridging the gap between development and design.
 
-Mais assez parlé de moi, si tu es intéressé pour échanger, tu peux me contacter directement sur [LinkedIn](https://www.linkedin.com/in/alexischarp/)! 😉
+Currently focusing on:
 
-<br>
+- Design Systems
+- DesignOps
+- Developer-Designer collaboration
+- Front-end Architecture
 
-### Hello! 🖖 🇬🇧
+My projects here might be a bit outdated (life happens! 😅), but they reflect my journey in tech.
 
-Let me introduce myself, my name is Alexis and I'm a front-end developer. On my Github, you can find a bunch of outdated projects that I didn't have time to finish 😋. Today, I'm trying to develop an expertise around developers and designers collaboration (design systems, design ops, etc.).
+I'm constantly learning and exploring new ways to improve the synergy between technical implementation and design excellence.
 
-But enough about me, if you're interested to exchange, you can contact me directly on [LinkedIn](https://www.linkedin.com/in/alexischarp/)! 😉
+Want to connect? Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/alexischarp/)!
+
+## Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=AlexisCharp&theme=blood-dark&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
+<!-- [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/alexischarp) -->
